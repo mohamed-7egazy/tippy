@@ -10,7 +10,7 @@ class SettingView extends StatelessWidget {
 
 
   final List<String> languageList = [
-    "Englis",
+    "English",
     "عربى",
   ];
 
